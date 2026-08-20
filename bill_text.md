@@ -11,11 +11,26 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 **§ 2.** Article 44-B of the general business law is amended by adding a new section 1422-a to read as follows:
 
 **§ 1422-a. Officer certification.**
-**1. Annual submission.** Beginning April fifteenth of the calendar year following the first full calendar year after this section takes effect, and annually thereafter, each large frontier developer shall submit electronically to the office, in a form prescribed by the office, either:
 
-(a) a written certification that, during the preceding calendar year, the large frontier developer materially complied with the applicable requirements of sections fourteen hundred twenty-one and fourteen hundred twenty-two of this article and with its frontier AI framework; or
+**1. Required submissions.**
 
-(b) a written acknowledgment that the large frontier developer did not materially comply with all such requirements, which shall identify each requirement with which it did not materially comply, describe the nature and extent of the noncompliance, and provide a remediation timeline or confirmation that remediation is complete.
+(a) Before or concurrently with deploying a new frontier model or a substantially modified version of an existing frontier model, a large frontier developer shall submit electronically to the office, in a form prescribed by the office, either:
+
+(i) a written certification that, after reasonable inquiry:
+
+(A) the transparency report required by subdivision three of section fourteen hundred twenty-one of this article is complete and accurate;
+
+(B) the assessments, mitigations, third-party evaluations, and other steps required by the large frontier developer’s frontier AI framework for the decision to deploy were completed or applied; and
+
+(C) the deployment materially complies with the applicable requirements of section fourteen hundred twenty-one of this article and with the large frontier developer’s frontier AI framework; or
+
+(ii) a written acknowledgment identifying each material noncompliance, describing its nature and extent, and providing a remediation plan. An acknowledgment under this subparagraph shall not constitute compliance, validation, authorization to deploy, or a defense to any violation of this article.
+
+(b) Beginning April fifteenth of the calendar year following the first full calendar year after this section takes effect, and annually thereafter, each large frontier developer shall submit either:
+
+(i) a written certification that, during the preceding calendar year, the large frontier developer materially complied with the applicable requirements of sections fourteen hundred twenty-one and fourteen hundred twenty-two of this article and with its frontier AI framework; or
+
+(ii) a written acknowledgment identifying each requirement with which the large frontier developer did not materially comply, describing the nature and extent of the noncompliance, and providing a remediation timeline or confirmation that remediation is complete.
 
 **2. Required signers.** Each certification or acknowledgment submitted pursuant to subdivision one of this section shall be signed personally by:
 
