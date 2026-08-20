@@ -38,6 +38,15 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 
 (b) the most senior natural-person officer, other than the signer required by paragraph (a) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework.
 
+**3. Personal duty of inquiry and response.**
+
+(a) Before signing a certification or acknowledgment, each person required to sign under subdivision two of this section shall exercise due care to ensure that a reasonable inquiry has been conducted. The inquiry shall be based upon data and documentation sufficient to determine accurately and demonstrate the matters addressed by the submission.
+
+(b) Employees, advisers, and qualified experts may perform work supporting the inquiry, but a required signer may rely upon their information only where such reliance is reasonable under the circumstances and the signer has no reason to believe that the information is materially false or incomplete. Delegation of supporting work shall not relieve a required signer of the personal duty imposed by this subdivision.
+
+(c) When material noncompliance is identified, or would have been identified through an inquiry satisfying paragraph (a) of this subdivision, each required signer shall exercise due care, using meaningful measures within that signer’s authority individually or in combination with others, to cause prompt remediation and to prevent, halt, or restrict any deployment or extensive internal use to which the noncompliance relates where its continuation would violate this article or the large frontier developer’s frontier AI framework.
+
+
 Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
 
 
