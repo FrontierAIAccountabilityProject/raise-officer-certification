@@ -76,6 +76,15 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 
 (d) This subdivision does not prohibit payment or advancement of reasonable costs of defense. It does not prohibit indemnification of a person upon whom no individual penalty is finally imposed.
 
+**7. Injunctive relief and disqualification.**
+(a) In an action brought pursuant to subdivision five of this section, the court may grant appropriate injunctive or other equitable relief, including requiring a compliant submission, requiring remediation of an identified violation, or restraining the deployment or extensive internal use of a frontier model in this state until the requirements of this section are satisfied.
+
+(b) Upon finding that a required signer knowingly violated this section, or committed two or more violations within five years, the court may prohibit that person, for a period not exceeding five years, from serving in an office or exercising authority that would make the person a required signer for a large frontier developer.
+
+(c) A large frontier developer shall not deploy or extensively use a frontier model internally in this state while a person subject to an order under paragraph (b) of this subdivision continues to hold an office or exercise authority that would make that person a required signer.
+
+(d) Before ordering disqualification, the court shall consider the gravity and duration of the violation, the person’s degree of culpability and practical authority, efforts to remediate the violation, the likelihood of recurrence, and whether lesser relief would adequately protect the public.
+
 
 
 
