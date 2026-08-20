@@ -46,6 +46,8 @@ For purposes of paragraph (d) of this subdivision, authority may be held directl
 
 Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
 
+For purposes of this section, “required signer” means each natural person required to sign pursuant to this subdivision, whether or not the required submission was made.
+
 **3. Personal duty of inquiry and response.**
 
 (a) Before signing a certification or acknowledgment, each person required to sign under subdivision two of this section shall exercise due care to ensure that a reasonable inquiry has been conducted. The inquiry shall be based upon data and documentation sufficient to determine accurately and demonstrate the matters addressed by the submission.
@@ -68,7 +70,7 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 
 **5. Individual enforcement.**
 
-(a) The attorney general may bring a civil action against a required signer who violates a duty imposed upon that signer by this section. For purposes of this subdivision, “required signer” includes a natural person required to sign pursuant to subdivision two of this section, whether or not the required submission was made.
+(a) The attorney general may bring a civil action against a required signer who violates a duty imposed upon that signer by this section.
 
 (b) A required signer shall not be liable under this section solely because the large frontier developer violated another provision of this article. To establish a violation of subdivision three of this section, the attorney general shall prove that the required signer failed to exercise due care in performing a duty within that signer’s authority.
 
