@@ -58,4 +58,14 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 
 (c) The office shall prescribe forms and procedures necessary to implement this section but shall not permit a form, procedure, or electronic submission method to dispense with either required signer or diminish the personal duties imposed by this section.
 
+**5. Individual enforcement.**
+(a) The attorney general may bring a civil action against a required signer who violates a duty imposed upon that signer by this section. For purposes of this subdivision, “required signer” includes a natural person required to sign pursuant to subdivision two of this section, whether or not the required submission was made.
+
+(b) A required signer shall not be liable under this section solely because the large frontier developer violated another provision of this article. To establish a violation of subdivision three of this section, the attorney general shall prove that the required signer failed to exercise due care in performing a duty within that signer’s authority.
+
+(c) A truthful acknowledgment of noncompliance submitted pursuant to subdivision one of this section shall not, standing alone, establish personal liability. Nothing in this paragraph limits consideration of the facts disclosed, the signer’s conduct, or the signer’s compliance with subdivision three of this section.
+
+(d) A court may impose upon a required signer found to have violated this section a civil penalty not exceeding two hundred fifty thousand dollars for a first violation and one million dollars for each subsequent violation. In determining the amount, the court shall consider the nature, circumstances, extent, and gravity of the violation; the signer’s degree of culpability and authority; any prior violations; efforts to prevent or remediate the violation; and the signer’s ability to pay.
+
+
 
