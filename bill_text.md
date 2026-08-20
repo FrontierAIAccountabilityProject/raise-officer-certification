@@ -34,13 +34,15 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 
 **2. Required signers.** Each certification or acknowledgment submitted pursuant to subdivision one of this section shall be signed personally by:
 
-(a) the highest-ranking natural-person executive of the large frontier developer; provided that, where an affiliate exercises ultimate authority to direct the management and policies of the large frontier developer, the required signer shall instead be the highest-ranking natural-person executive of that affiliate;
+(a) the highest-ranking natural-person executive of the large frontier developer;
 
-(b) the most senior natural-person officer, other than the signer required by paragraph (a) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework; and
+(b) where an affiliate exercises ultimate authority to direct the management and policies of the large frontier developer, the highest-ranking natural-person executive of that affiliate;
 
-(c) each natural person, other than a signer required by paragraph (a) or (b) of this subdivision, who, regardless of title, possesses or exercises final material independent decision authority over the deployment or extensive internal use of a frontier model of the large frontier developer through ownership, voting, contractual, governance, trust, or other rights conferring practical power to prevent, halt, restrict, or correct such deployment or use.
+(c) the most senior natural-person officer, other than a signer required by paragraph (a) or (b) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework; and
 
-For purposes of paragraph (c) of this subdivision, authority may be held directly or indirectly, individually or in concert with others, and through any affiliate, entity, trust, or arrangement. Title, seniority, professional expertise, technical access, or the provision of advice, standing alone, does not constitute such authority. Substance controls over title.
+(d) each natural person, other than a signer required by paragraph (a), (b), or (c) of this subdivision, who, regardless of title, possesses or exercises final material independent decision authority over the deployment or extensive internal use of a frontier model of the large frontier developer through ownership, voting, contractual, governance, trust, or other rights conferring practical power to prevent, halt, restrict, or correct such deployment or use.
+
+For purposes of paragraph (d) of this subdivision, authority may be held directly or indirectly, individually or in concert with others, and through any affiliate, entity, trust, or arrangement. Title, seniority, professional expertise, technical access, or the provision of advice, standing alone, does not constitute such authority. Substance controls over title.
 
 Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
 
