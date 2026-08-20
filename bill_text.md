@@ -38,6 +38,10 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 
 (b) the most senior natural-person officer, other than the signer required by paragraph (a) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework.
 
+(c) each natural person, other than a signer required by paragraph (a) or (b) of this subdivision, who, regardless of title, possesses or exercises final material independent decision authority over the deployment or extensive internal use of the frontier model through ownership, voting, contractual, governance, trust, or other rights conferring practical power to prevent, halt, restrict, or correct such deployment or use.
+
+For purposes of paragraph (c) of this subdivision, authority may be held directly or indirectly, individually or in concert with others, and through any affiliate, entity, trust, or arrangement. Title, seniority, professional expertise, technical access, or the provision of advice, standing alone, does not constitute such authority. Substance controls over title.
+
 **3. Personal duty of inquiry and response.**
 
 (a) Before signing a certification or acknowledgment, each person required to sign under subdivision two of this section shall exercise due care to ensure that a reasonable inquiry has been conducted. The inquiry shall be based upon data and documentation sufficient to determine accurately and demonstrate the matters addressed by the submission.
