@@ -36,7 +36,7 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 
 (a) the highest-ranking natural-person executive of the large frontier developer;
 
-(b) where an affiliate exercises ultimate authority to direct the management and policies of the large frontier developer, the highest-ranking natural-person executive of that affiliate;
+(b) where an affiliate exercises ultimate authority to direct the management and policies of the large frontier developer, the highest-ranking natural-person executive of that affiliate or, if such affiliate has no such executive, each natural person exercising the most senior executive or governance authority over that affiliate;
 
 (c) the most senior natural-person officer, other than a signer required by paragraph (a) or (b) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework; and
 
