@@ -67,5 +67,15 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 
 (d) A court may impose upon a required signer found to have violated this section a civil penalty not exceeding two hundred fifty thousand dollars for a first violation and one million dollars for each subsequent violation. In determining the amount, the court shall consider the nature, circumstances, extent, and gravity of the violation; the signer’s degree of culpability and authority; any prior violations; efforts to prevent or remediate the violation; and the signer’s ability to pay.
 
+**6. Personal payment; no indemnification.**
+(a) A civil penalty imposed upon a required signer pursuant to subdivision five of this section shall be paid by that signer personally. No large frontier developer, affiliate, insurer, employer, or other person shall directly or indirectly pay, reimburse, indemnify, insure, or otherwise satisfy any part of such penalty.
+
+(b) No person shall provide, and no required signer shall solicit, accept, or retain, any increase in compensation, bonus, loan, forgiveness of indebtedness, distribution, gift, or other transfer of value whose purpose or predominant effect is to offset a penalty described in paragraph (a) of this subdivision.
+
+(c) Any agreement or arrangement contrary to this subdivision is void and unenforceable. The attorney general may recover a prohibited payment or transfer from the person providing it or the required signer receiving it. Such recovery shall not reduce or satisfy the required signer’s underlying penalty.
+
+(d) This subdivision does not prohibit payment or advancement of reasonable costs of defense. It does not prohibit indemnification of a person upon whom no individual penalty is finally imposed.
+
+
 
 
