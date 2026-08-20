@@ -1,6 +1,6 @@
 # Frontier Artificial Intelligence Officer Certification Act
 
-**Research draft v0.1 — 20 August 2026**
+**Research draft v0.2 — 20 August 2026**
 
 AN ACT to amend the general business law, in relation to natural-person certification of transparency and reporting obligations applicable to large frontier developers.
 
@@ -32,19 +32,31 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 
 (ii) a written acknowledgment identifying each requirement with which the large frontier developer did not materially comply, describing the nature and extent of the noncompliance, and providing a remediation timeline or confirmation that remediation is complete.
 
+(c) Existing deployments. On the effective date of this section, each large frontier developer that has a frontier model deployed or in extensive internal use, in whole or in part in this state, shall submit for each such model the certification or acknowledgment required by paragraph (a) of this subdivision. For purposes of paragraph (a) of this subdivision, continued deployment or extensive internal use of such a model on or after the effective date shall be treated as deployment of a new frontier model occurring on the effective date. No liability shall arise under this paragraph for conduct occurring before the effective date.
+
 **2. Required signers.** Each certification or acknowledgment submitted pursuant to subdivision one of this section shall be signed personally by:
 
-(a) the highest-ranking natural-person executive of the large frontier developer;
+(a) the highest-ranking natural-person executive of the large frontier developer or, if the large frontier developer has no such executive, each natural person exercising the most senior executive or governance authority over the large frontier developer;
 
 (b) where an affiliate exercises ultimate authority to direct the management and policies of the large frontier developer, the highest-ranking natural-person executive of that affiliate or, if such affiliate has no such executive, each natural person exercising the most senior executive or governance authority over that affiliate;
 
 (c) the most senior natural-person officer, other than a signer required by paragraph (a) or (b) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework; and
 
-(d) each natural person, other than a signer required by paragraph (a), (b), or (c) of this subdivision, who, regardless of title, possesses or exercises final material independent decision authority over the deployment or extensive internal use of a frontier model of the large frontier developer through ownership, voting, contractual, governance, trust, or other rights conferring practical power to prevent, halt, restrict, or correct such deployment or use.
+(d) each natural person, other than a signer required by paragraph (a), (b), or (c) of this subdivision, who, regardless of title, possesses or exercises final material decision authority concerning the deployment or extensive internal use of a frontier model of the large frontier developer through one or more of the following:
 
-For purposes of paragraph (d) of this subdivision, authority may be held directly or indirectly, individually or in concert with others, and through any affiliate, entity, trust, or arrangement. Title, seniority, professional expertise, technical access, or the provision of advice, standing alone, does not constitute such authority. Substance controls over title.
+(i) deployment, expansion, release, or access decisions;
 
-Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
+(ii) budgets, compute, infrastructure, or risk policy materially affecting such deployment or use;
+
+(iii) appointment, removal, direction, or supervision of persons exercising authority described in subparagraph (i) or (ii) of this paragraph; or
+
+(iv) ownership, voting, contractual, governance, trust, or other rights conferring practical power to prevent, halt, restrict, or correct such deployment or use.
+
+For purposes of paragraph (d) of this subdivision, authority may be held or exercised directly or indirectly, individually or in concert with others, and through any affiliate, entity, trust, or arrangement. The following, standing alone or in combination only with each other, do not constitute authority under paragraph (d) of this subdivision: title, office, seniority, or status; professional credentials or technical ability; access to systems, model weights, compute, or infrastructure; the ministerial execution, implementation, or communication of a decision made by another; or the provision of advice, analysis, or recommendation to a person holding decision authority. Authority under paragraph (d) of this subdivision is authority to decide, not merely capacity to act. Substance controls over title.
+
+Where two or more natural persons jointly occupy or exercise the rank or authority described in paragraph (a), (b), or (c) of this subdivision, each such person shall be a required signer. No large frontier developer or affiliate may, through a vacancy, allocation of authority among multiple persons, use of a board or committee, or other form of organization, leave this section without an obligated natural person.
+
+Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated. No appointment of a safety officer, compliance officer, committee, subsidiary, contractor, artificial intelligence system, or other intermediary shall relieve a required signer who retains authority material to a duty imposed by this section.
 
 For purposes of this section, “required signer” means each natural person required to sign pursuant to this subdivision, whether or not the required submission was made.
 
@@ -64,9 +76,15 @@ For purposes of this section, “required signer” means each natural person re
 
 “False statements made herein are punishable as a class A misdemeanor pursuant to section 210.45 of the penal law.”
 
-(b) A large frontier developer shall preserve for five years all data, reports, assessments, communications, schedules, and other documentation materially relied upon in preparing a certification or acknowledgment under this section. Such records shall be made available to the office or the attorney general upon lawful request.
+(b) A large frontier developer shall preserve for five years after submission all data, reports, assessments, communications, schedules, and other documentation materially relied upon in preparing a certification or acknowledgment under this section. The large frontier developer shall also preserve for the same period records sufficient to identify each required signer and the basis upon which that person was or was not treated as a required signer, including organizational charts, delegations of authority, board or committee resolutions, and voting, contractual, governance, or trust arrangements materially relevant to authority described in subdivision two of this section. Such records shall be made available to the office or the attorney general upon lawful request.
+
+From the time a large frontier developer or required signer has notice of a critical safety incident, investigation, lawful preservation demand, or judicial or administrative proceeding to which records described in this paragraph are reasonably relevant, such records shall be preserved until the final conclusion of the incident response, investigation, demand, or proceeding, including any review or appeal, notwithstanding expiration of the five-year period.
 
 (c) The office shall prescribe forms and procedures necessary to implement this section but shall not permit a form, procedure, or electronic submission method to dispense with any required signer or diminish the personal duties imposed by this section.
+
+(d) Each certification or acknowledgment submitted under this section shall be a public record and shall be made available for public inspection and copying. The office may redact only information for which withholding is necessary to protect trade secrets, cybersecurity, public safety, national security, or another interest protected from disclosure by law. The office shall not redact the identity of the large frontier developer; the name or version of the frontier model to which the submission relates; the reporting period; whether the submission is a certification or acknowledgment; the filing date; or any required signer’s name, title, signing capacity, attestation, and signature or electronic equivalent.
+
+(e) Within ten business days after receiving a certification or acknowledgment, the office shall publish the public copy on its website and enter it in a searchable public register. The register shall permit the public to identify submissions by large frontier developer, frontier model, required signer, submission type, and filing date. The unredacted submission and supporting records shall remain available to the office and the attorney general and shall be exempt from public disclosure only to the extent permitted by law.
 
 **5. Individual enforcement.**
 
@@ -88,6 +106,10 @@ For purposes of this section, “required signer” means each natural person re
 
 (d) This subdivision does not prohibit payment or advancement of reasonable costs of defense. It does not prohibit indemnification of a person upon whom no individual penalty is finally imposed.
 
+(e) This subdivision applies only to a penalty imposed for conduct occurring on or after the effective date of this section.
+
+(f) No liability shall arise under this subdivision solely from entering into an insurance contract or other indemnification arrangement before the effective date of this section or maintaining such a contract or arrangement during the transition period described in this paragraph. Such a contract or arrangement may be maintained only until the earliest of its renewal, expiration, or material amendment, or one year after the effective date of this section. Nothing in this paragraph authorizes any payment, reimbursement, indemnification, insurance benefit, compensation adjustment, or other transfer of value to satisfy or offset a penalty imposed for conduct occurring on or after the effective date of this section.
+
 **7. Injunctive relief and disqualification.**
 
 (a) In an action brought pursuant to subdivision five of this section, the court may grant appropriate injunctive or other equitable relief, including requiring a compliant submission, requiring remediation of an identified violation, or restraining the deployment or extensive internal use of a frontier model in this state until the requirements of this section are satisfied.
@@ -107,4 +129,3 @@ A penalty imposed upon a large frontier developer pursuant to this subdivision s
 **§ 4. Severability.** If any clause, sentence, paragraph, subdivision, section, or part of this act shall be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, or part directly involved in the controversy in which such judgment shall have been rendered.
 
 **§ 5. Effective date.** This act shall take effect on the one hundred eightieth day after it shall have become a law. Effective immediately, the addition, amendment, or repeal of any rule or regulation necessary for the implementation of this act on its effective date is authorized to be made and completed on or before such effective date.
-
