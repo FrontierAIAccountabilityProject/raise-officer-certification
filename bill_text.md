@@ -34,13 +34,15 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 
 **2. Required signers.** Each certification or acknowledgment submitted pursuant to subdivision one of this section shall be signed personally by:
 
-(a) the highest-ranking natural-person executive of the large frontier developer; provided that, where an affiliate exercises ultimate authority to direct the management and policies of the large frontier developer, the required signer shall instead be the highest-ranking natural-person executive of that affiliate; and
+(a) the highest-ranking natural-person executive of the large frontier developer; provided that, where an affiliate exercises ultimate authority to direct the management and policies of the large frontier developer, the required signer shall instead be the highest-ranking natural-person executive of that affiliate;
 
-(b) the most senior natural-person officer, other than the signer required by paragraph (a) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework.
+(b) the most senior natural-person officer, other than the signer required by paragraph (a) of this subdivision, who has direct responsibility for implementation of the large frontier developer’s frontier AI framework and authority to prevent the deployment or extensive internal use of a frontier model that does not comply with that framework; and
 
-(c) each natural person, other than a signer required by paragraph (a) or (b) of this subdivision, who, regardless of title, possesses or exercises final material independent decision authority over the deployment or extensive internal use of the frontier model through ownership, voting, contractual, governance, trust, or other rights conferring practical power to prevent, halt, restrict, or correct such deployment or use.
+(c) each natural person, other than a signer required by paragraph (a) or (b) of this subdivision, who, regardless of title, possesses or exercises final material independent decision authority over the deployment or extensive internal use of a frontier model of the large frontier developer through ownership, voting, contractual, governance, trust, or other rights conferring practical power to prevent, halt, restrict, or correct such deployment or use.
 
 For purposes of paragraph (c) of this subdivision, authority may be held directly or indirectly, individually or in concert with others, and through any affiliate, entity, trust, or arrangement. Title, seniority, professional expertise, technical access, or the provision of advice, standing alone, does not constitute such authority. Substance controls over title.
+
+Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
 
 **3. Personal duty of inquiry and response.**
 
@@ -52,8 +54,6 @@ For purposes of paragraph (c) of this subdivision, authority may be held directl
 
 (d) Lack of actual knowledge shall not constitute a defense to a violation of this subdivision where the relevant facts would have been disclosed by the reasonable inquiry required by paragraph (a) of this subdivision or by reporting and escalation systems that due care required the signer to establish or maintain. A required signer may not avoid a duty imposed by this section through delegation, deliberate avoidance of material information, or failure to establish reasonable means by which such information would reach the signer.
 
-Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
-
 **4. Form and supporting records.**
 
 (a) Each certification or acknowledgment submitted under this section shall identify each required signer by name, title, and signing capacity and shall bear the following notice immediately above each signature:
@@ -62,9 +62,10 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 
 (b) A large frontier developer shall preserve for five years all data, reports, assessments, communications, schedules, and other documentation materially relied upon in preparing a certification or acknowledgment under this section. Such records shall be made available to the office or the attorney general upon lawful request.
 
-(c) The office shall prescribe forms and procedures necessary to implement this section but shall not permit a form, procedure, or electronic submission method to dispense with either required signer or diminish the personal duties imposed by this section.
+(c) The office shall prescribe forms and procedures necessary to implement this section but shall not permit a form, procedure, or electronic submission method to dispense with any required signer or diminish the personal duties imposed by this section.
 
 **5. Individual enforcement.**
+
 (a) The attorney general may bring a civil action against a required signer who violates a duty imposed upon that signer by this section. For purposes of this subdivision, “required signer” includes a natural person required to sign pursuant to subdivision two of this section, whether or not the required submission was made.
 
 (b) A required signer shall not be liable under this section solely because the large frontier developer violated another provision of this article. To establish a violation of subdivision three of this section, the attorney general shall prove that the required signer failed to exercise due care in performing a duty within that signer’s authority.
@@ -74,6 +75,7 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 (d) A court may impose upon a required signer found to have violated this section a civil penalty not exceeding two hundred fifty thousand dollars for a first violation and one million dollars for each subsequent violation. In determining the amount, the court shall consider the nature, circumstances, extent, and gravity of the violation; the signer’s degree of culpability and authority; any prior violations; efforts to prevent or remediate the violation; and the signer’s ability to pay.
 
 **6. Personal payment; no indemnification.**
+
 (a) A civil penalty imposed upon a required signer pursuant to subdivision five of this section shall be paid by that signer personally. No large frontier developer, affiliate, insurer, employer, or other person shall directly or indirectly pay, reimburse, indemnify, insure, or otherwise satisfy any part of such penalty.
 
 (b) No person shall provide, and no required signer shall solicit, accept, or retain, any increase in compensation, bonus, loan, forgiveness of indebtedness, distribution, gift, or other transfer of value whose purpose or predominant effect is to offset a penalty described in paragraph (a) of this subdivision.
@@ -83,6 +85,7 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 (d) This subdivision does not prohibit payment or advancement of reasonable costs of defense. It does not prohibit indemnification of a person upon whom no individual penalty is finally imposed.
 
 **7. Injunctive relief and disqualification.**
+
 (a) In an action brought pursuant to subdivision five of this section, the court may grant appropriate injunctive or other equitable relief, including requiring a compliant submission, requiring remediation of an identified violation, or restraining the deployment or extensive internal use of a frontier model in this state until the requirements of this section are satisfied.
 
 (b) Upon finding that a required signer knowingly violated this section, or committed two or more violations within five years, the court may prohibit that person, for a period not exceeding five years, from serving in an office or exercising authority that would make the person a required signer for a large frontier developer.
@@ -96,6 +99,3 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 **1.** The attorney general may bring a civil action to recover a civil penalty in an amount not to exceed one million dollars for a first violation and in an amount not to exceed three million dollars per subsequent violation, determined based on the severity of the violation, where a large frontier developer fails to publish or transmit a compliant document required to be published or transmitted under this article, makes a statement in violation of subdivision four of section fourteen hundred twenty-one of this article, fails to report an incident as required by section fourteen hundred twenty-two of this article, fails to submit a certification or acknowledgment required by section fourteen hundred twenty-two-a of this article, otherwise violates a duty imposed upon the large frontier developer by such section, or fails to comply with its own frontier AI framework.
 
 A penalty imposed upon a large frontier developer pursuant to this subdivision shall be separate from, and shall not satisfy or reduce, any penalty imposed upon a required signer pursuant to section fourteen hundred twenty-two-a of this article.
-
-
-
