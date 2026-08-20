@@ -46,7 +46,16 @@ THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEMBLY, DO ENAC
 
 (c) When material noncompliance is identified, or would have been identified through an inquiry satisfying paragraph (a) of this subdivision, each required signer shall exercise due care, using meaningful measures within that signer’s authority individually or in combination with others, to cause prompt remediation and to prevent, halt, or restrict any deployment or extensive internal use to which the noncompliance relates where its continuation would violate this article or the large frontier developer’s frontier AI framework.
 
-
 Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
+
+**4. Form and supporting records.**
+
+(a) Each certification or acknowledgment submitted under this section shall identify each required signer by name, title, and signing capacity and shall bear the following notice immediately above each signature:
+
+“False statements made herein are punishable as a class A misdemeanor pursuant to section 210.45 of the penal law.”
+
+(b) A large frontier developer shall preserve for five years all data, reports, assessments, communications, schedules, and other documentation materially relied upon in preparing a certification or acknowledgment under this section. Such records shall be made available to the office or the attorney general upon lawful request.
+
+(c) The office shall prescribe forms and procedures necessary to implement this section but shall not permit a form, procedure, or electronic submission method to dispense with either required signer or diminish the personal duties imposed by this section.
 
 
