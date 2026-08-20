@@ -50,6 +50,8 @@ For purposes of paragraph (c) of this subdivision, authority may be held directl
 
 (c) When material noncompliance is identified, or would have been identified through an inquiry satisfying paragraph (a) of this subdivision, each required signer shall exercise due care, using meaningful measures within that signer’s authority individually or in combination with others, to cause prompt remediation and to prevent, halt, or restrict any deployment or extensive internal use to which the noncompliance relates where its continuation would violate this article or the large frontier developer’s frontier AI framework.
 
+(d) Lack of actual knowledge shall not constitute a defense to a violation of this subdivision where the relevant facts would have been disclosed by the reasonable inquiry required by paragraph (a) of this subdivision or by reporting and escalation systems that due care required the signer to establish or maintain. A required signer may not avoid a duty imposed by this section through delegation, deliberate avoidance of material information, or failure to establish reasonable means by which such information would reach the signer.
+
 Each signer shall sign in an individual capacity. A signature by an entity, board, committee, representative, or delegate shall not satisfy this subdivision. The duties imposed upon a signer by this section may not be delegated.
 
 **4. Form and supporting records.**
@@ -89,6 +91,11 @@ Each signer shall sign in an individual capacity. A signature by an entity, boar
 
 (d) Before ordering disqualification, the court shall consider the gravity and duration of the violation, the person’s degree of culpability and practical authority, efforts to remediate the violation, the likelihood of recurrence, and whether lesser relief would adequately protect the public.
 
+**§ 3.** Subdivision one of section fourteen hundred twenty-seven of the general business law, as added by chapter ninety-six of the laws of two thousand twenty-six, is amended to read as follows:
+
+**1.** The attorney general may bring a civil action to recover a civil penalty in an amount not to exceed one million dollars for a first violation and in an amount not to exceed three million dollars per subsequent violation, determined based on the severity of the violation, where a large frontier developer fails to publish or transmit a compliant document required to be published or transmitted under this article, makes a statement in violation of subdivision four of section fourteen hundred twenty-one of this article, fails to report an incident as required by section fourteen hundred twenty-two of this article, fails to submit a certification or acknowledgment required by section fourteen hundred twenty-two-a of this article, otherwise violates a duty imposed upon the large frontier developer by such section, or fails to comply with its own frontier AI framework.
+
+A penalty imposed upon a large frontier developer pursuant to this subdivision shall be separate from, and shall not satisfy or reduce, any penalty imposed upon a required signer pursuant to section fourteen hundred twenty-two-a of this article.
 
 
 
