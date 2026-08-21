@@ -1,5 +1,5 @@
 # SHA-256 digests of every file in this repository except this manifest.
-# Generated 21 August 2026.
+# Regenerated 21 August 2026.
 # Verify with:  shasum -a 256 -c SHA256SUMS.txt
 #
 9e6cee536e803254b077c7ac38ea34e64d0463773e23b8b8d34bde01bcc09b88  CITATION.cff
@@ -10,5 +10,6 @@ bf40f86f445709cd9ac434d701488db5b94094be446713702136e8ea2f16e217  SOURCE_AND_PRO
 7abf7d649e8ef3332bee1e409e7429b12d42f4047172fb5abf72d3b7975f20e6  bill_text.md
 7d2055864d73b89c076cfebaa95a185b1f6740d9a6297a973dd799fd80ca867a  bill_text.pdf
 39b7ea1c1e7c48a2787402416eee1f779be49524ee5ff060e5a6a9eeb763e383  research/README.md
+a49b7106da97faf717ec9ec2f39658133e1feef09f83ffb37c48470d27c469cb  research/raise_act_s6953a_2025_prior_version.txt
 79a0944f947cb068e315738be9cc93ad3e7e007d44450c1f83dd6be57c6c7405  research/raise_act_s8828_chapter_96_2026.pdf
 fa9bb34827fe0b71275906e49715331455b94c61866b058d1e441f200931d332  research/raise_act_s8828_chapter_96_2026.txt
