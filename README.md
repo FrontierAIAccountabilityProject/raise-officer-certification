@@ -51,13 +51,28 @@ systems, create a new regulator or technical safety standard, authorize a privat
 or create a new criminal offense. Its Penal Law § 210.45 notice uses New York's existing
 false-written-statement mechanism.
 
+## What the enacted Act does not contain
+
+Searching the enacted text reproduced in [`research/`](./research/) — chapter 96 of the laws of
+2026 — returns **no occurrence of `audit`, `signature`, `shall sign`, `certify` or
+`certification`.** *Officer* appears only as "public officers law", a records provision. *Natural
+person* appears once, describing a mechanism for someone to communicate with the division, not a
+person who owes anything.
+
+The Act does bar a developer from making "a materially false or misleading statement about
+catastrophic risk from its frontier models" — **a duty not to lie, owed by a company, with nobody
+required to put a name to the statement.** That is the provision this draft completes.
+
 ## Read the draft
 
 - [`bill_text.md`](./bill_text.md) / [`bill_text.pdf`](./bill_text.pdf) — complete amendatory text
 - [`PLAIN_LANGUAGE_GUIDE.md`](./PLAIN_LANGUAGE_GUIDE.md) — provision-by-provision explanation
-- [`sponsor_memo.md`](./sponsor_memo.md) / [`sponsor_memo.pdf`](./sponsor_memo.pdf) — concise
-  legislative handoff
+- [`SPONSOR_MEMO.md`](./SPONSOR_MEMO.md) — concise legislative handoff
+- [`SOURCE_AND_PROVENANCE.md`](./SOURCE_AND_PROVENANCE.md) — what this amends, what the word test
+  returned, and where the authority base lives
 - [`research/`](./research/) — enacted RAISE Act source material used for the amendment
+- [`SHA256SUMS.txt`](./SHA256SUMS.txt) — digests for every file here; verify with
+  `shasum -a 256 -c SHA256SUMS.txt`
 
 ## Status and contact
 

@@ -1,0 +1,85 @@
+cff-version: 1.2.0
+message: >-
+  This is a public-domain legislative research draft, released under CC0 1.0.
+  Please cite the publication version and commit so readers can identify the
+  text reviewed.
+title: "Frontier Artificial Intelligence Officer Certification Act (New York RAISE Act research draft)"
+abstract: >-
+  A research draft adding a new section 1422-a to article 44-B of the New York
+  General Business Law, amending the Responsible AI Safety and Education
+  (RAISE) Act to require named natural persons at large frontier developers to
+  sign for the developer's compliance. The enacted RAISE Act, chapter 96 of the
+  laws of 2026, places transparency, catastrophic-risk assessment, frontier AI
+  framework and incident-reporting duties on the developer as an entity, and
+  bars materially false or misleading statements about catastrophic risk. Its
+  enacted text contains no independent audit requirement, no signature
+  requirement, no certification requirement, and no duty owed by any natural
+  person. The draft adds a deployment certification or truthful acknowledgment
+  of material noncompliance, an annual certification, personal and
+  non-delegable duties of reasonable inquiry and response, a searchable public
+  register of required signers, civil enforcement against a signer for breach
+  of that signer's own duty, and personal payment of individual penalties
+  without corporate indemnification, insurance, reimbursement or compensation
+  offset. It uses the RAISE Act's existing definitions, regulator and coverage
+  thresholds rather than creating a separate regulatory system, and creates no
+  new criminal offense and no private right of action. Public-domain research
+  draft; never introduced or enacted; no completed review claimed.
+type: software
+version: "0.2"
+date-released: "2026-08-20"
+authors:
+  - name: "Frontier AI Accountability Project"
+    website: "https://github.com/FrontierAIAccountabilityProject"
+repository-code: "https://github.com/FrontierAIAccountabilityProject/raise-officer-certification"
+url: "https://github.com/FrontierAIAccountabilityProject/raise-officer-certification"
+license: CC0-1.0
+keywords:
+  - legislative research draft
+  - New York
+  - RAISE Act
+  - General Business Law article 44-B
+  - frontier artificial intelligence
+  - officer certification
+  - responsible corporate officer doctrine
+  - Park doctrine
+  - natural-person accountability
+  - AI governance
+references:
+  - type: legal-rule
+    title: "Responsible AI Safety and Education Act, N.Y. General Business Law art. 44-B"
+    year: 2026
+    notes: "The enacted Act this draft would amend; chapter 96 of the laws of 2026 (S8828). Effective January 1, 2027."
+  - type: report
+    title: "Frontier Artificial Intelligence Responsible Officer Act"
+    version: "0.1"
+    year: 2026
+    authors:
+      - name: "Frontier AI Accountability Project"
+    url: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act"
+    notes: "The general model-legislation version of the same proposal. This New York draft is one of two state-specific adaptations."
+  - type: report
+    title: "Frontier Artificial Intelligence Officer Certification Act (Illinois research draft)"
+    version: "0.2"
+    year: 2026
+    authors:
+      - name: "Frontier AI Accountability Project"
+    url: "https://github.com/FrontierAIAccountabilityProject/illinois-frontier-officer-certification"
+    notes: "The sibling adaptation, amending 430 ILCS 185. Not interchangeable with this draft."
+  - type: legal-case
+    title: "United States v. Dotterweich, 320 U.S. 277 (1943)"
+    year: 1943
+    authors:
+      - name: "Supreme Court of the United States"
+    notes: "Responsible-relation doctrine used by the draft."
+  - type: legal-case
+    title: "United States v. Park, 421 U.S. 658 (1975)"
+    year: 1975
+    authors:
+      - name: "Supreme Court of the United States"
+    notes: "Authority to prevent or correct, and the treatment of delegation."
+  - type: legal-case
+    title: "United States v. DeCoster, 828 F.3d 626 (8th Cir. 2016)"
+    year: 2016
+    authors:
+      - name: "United States Court of Appeals for the Eighth Circuit"
+    notes: "Culpability and imprisonment under the responsible-officer line."
